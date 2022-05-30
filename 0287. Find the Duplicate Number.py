@@ -33,6 +33,9 @@ class Solution(object):
             else: 
                 l = m + 1
         return r            
+#Time complexity: O(n)
+#Space complexity:O(1)
+
 
 
 #3. Two pointers- fast and slow pointers
